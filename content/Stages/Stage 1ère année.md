@@ -14,6 +14,7 @@ weight: 1
 ---
 J'ai réalisé mon stage de première année de BTS SIO au sein de l'espace Vall'Âges, un centre social et culturel situé à Joinville. J'étais avec le conseiller numérique. Mon stage s'est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j'ai réalisé plusieurs projets.
 
+
 ## Projet n°1: Création d'un exercice pour débutant en informatique pour l'utilisation d'Excel
 
 Pour un groupe de débutant en informatique souhaitant apprendre Excel afin de l'utiliser pour faire leurs comptes, j'ai du réaliser un exercice simulant une fiche d'une personne fictive ayant plusieurs revenus et dépenses. A l'aide de cette feuille, les usagers devaient réaliser un tableau sous Excel afin d'y ajouter les dépenses et revenus de chaque mois afin de savoir combien d'argent il reste à cette personne mensuellement et annuellement. 
