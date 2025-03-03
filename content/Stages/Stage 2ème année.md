@@ -12,7 +12,8 @@ description: ""
 toc:
 weight: 1
 ---
-Pour mon stage de seconde année, je l'ai réalisé dans la même structure et auprès du même conseiller numérique. Celui-ci a été réalisé du 6 janvier 2025 au 7 février 2025. Étant plus à l'aise et avec plus d'expérience pour ce métier, j'ai pu animer certains ateliers pour plusieurs groupes, débutant ou non en informatique.
+Pour mon stage de seconde année, je l'ai réalisé dans la même structure et auprès du même conseiller numérique. Celui-ci a été réalisé du 6 janvier 2025 au 14 février 2025. Étant plus à l'aise et avec plus d'expérience pour ce métier, j'ai pu animer certains ateliers pour plusieurs groupes, débutant ou non en informatique.
+J'ai pu être une semaine entière seul à gérer le poste de conseiller numérique
 
 
 ## Projet n°1: Création et animation d'un atelier concernant les arnaques par mails et par SMS
