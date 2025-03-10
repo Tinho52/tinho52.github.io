@@ -1,5 +1,5 @@
 ---
-title: "Dossier de veille technologique"
+title: "La technologie dans l'arbitrage du football"
 date: 2025-03-03T23:29:21+05:30
 draft: false
 author: "Valentin"
