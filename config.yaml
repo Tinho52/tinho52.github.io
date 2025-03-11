@@ -36,7 +36,7 @@ Menus:
       weight: 2
     - identifier: Veille
       name: Veille
-      title: Veillessss
+      title: Veille
       url: /veille
       weight: 3
       
