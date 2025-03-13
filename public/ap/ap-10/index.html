@@ -28,22 +28,18 @@
 
 
 
-<meta property="og:title" content="AP03 SIO2 : Sauvegarde avec Veeam " />
-<meta property="og:description" content="I - Contexte L’entreprise CUB possède de nombreuses agences. Chacune dispose de serveurs et il est impératif de procéder à des sauvegardes régulière de ces serveurs.
-Afin de ne pas tout perdre en cas d’attaque par Cryptolocker/Ransomware il est impératif de mettre en place une stratégie de sauvegarde immuable.
-II - Les besoins L’entreprise CUB a donc besoin :
-Mettre en place un serveur de sauvegarde sous Windows server avec VEEAM Backup and Replication Installer le serveur de sauvegarde dans le bon VLAN de l’entreprise CUB et prévoir un disque d’au moins 80 GiO pour l’installation de Veeam." />
+<meta property="og:title" content="AP03 SIO2:  Infrastructure Haute Disponibilité" />
+<meta property="og:description" content="I - Contexte L’entreprise CUB, comme toute entreprise moderne, repose de plus en plus sur des infrastructures informatiques pour ses opérations quotidiennes. Les interruptions de service ou les pannes peuvent avoir des conséquences graves sur la productivité, la satisfaction des clients et la réputation de l’entreprise.
+II - Mission 1 Les besoins Votre agence doit pouvoir faire face à une panne du serveur Active Directory car c’est un élément crucial dans votre infrastructure." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://localhost:1313/ap/ap-10/" /><meta property="article:section" content="ap" />
-<meta property="article:published_time" content="2025-03-11T19:53:33+05:30" />
-<meta property="article:modified_time" content="2025-03-11T19:53:33+05:30" /><meta property="og:site_name" content="Valentin Profile" />
+<meta property="article:published_time" content="2025-02-25T19:53:33+05:30" />
+<meta property="article:modified_time" content="2025-02-25T19:53:33+05:30" /><meta property="og:site_name" content="Valentin Profile" />
 
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="AP03 SIO2 : Sauvegarde avec Veeam "/>
-<meta name="twitter:description" content="I - Contexte L’entreprise CUB possède de nombreuses agences. Chacune dispose de serveurs et il est impératif de procéder à des sauvegardes régulière de ces serveurs.
-Afin de ne pas tout perdre en cas d’attaque par Cryptolocker/Ransomware il est impératif de mettre en place une stratégie de sauvegarde immuable.
-II - Les besoins L’entreprise CUB a donc besoin :
-Mettre en place un serveur de sauvegarde sous Windows server avec VEEAM Backup and Replication Installer le serveur de sauvegarde dans le bon VLAN de l’entreprise CUB et prévoir un disque d’au moins 80 GiO pour l’installation de Veeam."/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="AP03 SIO2:  Infrastructure Haute Disponibilité"/>
+<meta name="twitter:description" content="I - Contexte L’entreprise CUB, comme toute entreprise moderne, repose de plus en plus sur des infrastructures informatiques pour ses opérations quotidiennes. Les interruptions de service ou les pannes peuvent avoir des conséquences graves sur la productivité, la satisfaction des clients et la réputation de l’entreprise.
+II - Mission 1 Les besoins Votre agence doit pouvoir faire face à une panne du serveur Active Directory car c’est un élément crucial dans votre infrastructure."/>
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -118,7 +114,7 @@ Mettre en place un serveur de sauvegarde sous Windows server avec VEEAM Backup a
   
 
   <title>
-AP03 SIO2 : Sauvegarde avec Veeam  | Hugo Profile
+AP03 SIO2:  Infrastructure Haute Disponibilité | Hugo Profile
 
   </title>
 </head>
@@ -332,13 +328,13 @@ AP03 SIO2 : Sauvegarde avec Veeam  | Hugo Profile
       <div class="col-sm-12 col-md-12 col-lg-9">
         <div class="pr-lg-4">
           <div class="title mb-5">
-            <h1 class="text-center mb-4">AP03 SIO2 : Sauvegarde avec Veeam </h1>
+            <h1 class="text-center mb-4">AP03 SIO2:  Infrastructure Haute Disponibilité</h1>
             <div class="text-center">
               
                 Valentin
                 <small>|</small>
               
-              Mar 11, 2025
+              Feb 25, 2025
 
               
               <span id="readingTime">
@@ -349,21 +345,26 @@ AP03 SIO2 : Sauvegarde avec Veeam  | Hugo Profile
           </div>
           
           <div class="featured-image">
-            <img class="img-fluid mx-auto d-block" src="/images/AP/veeam.png" alt="AP03 SIO2 : Sauvegarde avec Veeam ">
+            <img class="img-fluid mx-auto d-block" src="/images/AP/Haproxy.png" alt="AP03 SIO2:  Infrastructure Haute Disponibilité">
           </div>
           
           <article class="page-content  p-2">
           <h2 id="i---contexte">I - Contexte</h2>
-<p>L’entreprise CUB possède de nombreuses agences. Chacune dispose de serveurs et il est impératif de procéder à des sauvegardes régulière de ces serveurs.</p>
-<p>Afin de ne pas tout perdre en cas d’attaque par Cryptolocker/Ransomware il est impératif de mettre en place une stratégie de sauvegarde immuable.</p>
-<h2 id="ii---les-besoins">II - Les besoins</h2>
-<p>L’entreprise CUB a donc besoin :</p>
+<p>L’entreprise CUB, comme toute entreprise moderne, repose de plus en plus sur des infrastructures informatiques pour ses opérations quotidiennes. Les interruptions de service ou les pannes peuvent avoir des conséquences graves sur la productivité, la satisfaction des clients et la réputation de l’entreprise.</p>
+<h2 id="ii---mission-1">II - Mission 1</h2>
+<h2 id="les-besoins">Les besoins</h2>
+<p>Votre agence doit pouvoir faire face à une panne du serveur Active Directory car c’est un élément crucial dans votre infrastructure. Vous mettrez donc en place une redondance de votre controleur de domaine Active Directory.</p>
+<h2 id="iii---mission-2-">III - Mission 2 :</h2>
+<h2 id="les-besoins-1">Les besoins</h2>
 <ul>
-<li>Mettre en place un serveur de sauvegarde sous Windows server avec VEEAM Backup and Replication</li>
-<li>Installer le serveur de sauvegarde dans le bon VLAN de l’entreprise CUB et prévoir un disque d’au moins 80 GiO pour l’installation de Veeam.</li>
-<li>Sauvegarder le serveur Windows sur le NAS (172.17.50.211 ou 172.17.50.212 ou 172.17.50.213 ou 172.17.50.214 selon votre bâtiment) avec les identifiants admin/btssio.</li>
-<li>Sauvegarder 1 serveur Linux sur le NAS.</li>
+<li>L’entreprise a besoin que vous mettiez en production ce site dans votre agence. Il est également impératif que ce site soit disponible quoi qu’il arrive et c’est pourquoi vous devrez mettre en place un système de haute disponibilité en insttallant ce site sur 2 conteneurs différents. Vous utiliserez également HAProxy sur votre pfsense pour garantir cette haute disponibilité et une répartition de charge entre les 2 conteneurs qui font tourner ce site.</li>
+<li>Le site doit pouvoir supporter une tolérance de panne. Donc vous devez faire une répartition de charge avec un reverse Proxy et utiliser un outil d’équilibrage de charge comme Docker Swarm et Kubernetes pour vos conteneurs Docker.</li>
 </ul>
+<h2 id="iv---mission-3-">IV - Mission 3 :</h2>
+<h2 id="les-besoins-2">Les besoins</h2>
+<p>Votre responsable vous demande de mettre en place une solution d’orchestration plus avancée. Vous devez donc remplacer votre stack Docker Swarm par Kubernetes. Sous Ubuntu et ses versions dérivés, il existe l’application microk8s qui permet d’installer Kubernetes de manière très simplifiée.</p>
+<h2 id="v---procédure">V - Procédure</h2>
+<p>Vous pouvez trouver la procédure au lien suivant: <a href="/docs/AP3.docx">Procédure Sécurisation d&rsquo;un Windows Server KURTZ Valentin</a></p>
 
           </article>
         </div>
@@ -379,7 +380,13 @@ AP03 SIO2 : Sauvegarde avec Veeam  | Hugo Profile
                 <nav id="TableOfContents">
   <ul>
     <li><a href="#i---contexte">I - Contexte</a></li>
-    <li><a href="#ii---les-besoins">II - Les besoins</a></li>
+    <li><a href="#ii---mission-1">II - Mission 1</a></li>
+    <li><a href="#les-besoins">Les besoins</a></li>
+    <li><a href="#iii---mission-2-">III - Mission 2 :</a></li>
+    <li><a href="#les-besoins-1">Les besoins</a></li>
+    <li><a href="#iv---mission-3-">IV - Mission 3 :</a></li>
+    <li><a href="#les-besoins-2">Les besoins</a></li>
+    <li><a href="#v---procédure">V - Procédure</a></li>
   </ul>
 </nav>
               </div>
@@ -418,17 +425,17 @@ AP03 SIO2 : Sauvegarde avec Veeam  | Hugo Profile
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://twitter.com/share?text=AP03%20SIO2%20%3a%20Sauvegarde%20avec%20Veeam%20&url=http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f">
+                  <a target="_blank" href="https://twitter.com/share?text=AP03%20SIO2%3a%20%20Infrastructure%20Haute%20Disponibilit%c3%a9&url=http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f">
                     <i class="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text=AP03%20SIO2%20%3a%20Sauvegarde%20avec%20Veeam%20: http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f">
+                  <a target="_blank" href="https://api.whatsapp.com/send?text=AP03%20SIO2%3a%20%20Infrastructure%20Haute%20Disponibilit%c3%a9: http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f">
                     <i class="fab fa-whatsapp"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:?subject=AP03%20SIO2%20%3a%20Sauvegarde%20avec%20Veeam%20&amp;body=Check%20out%20this%20site http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f'>
+                  <a target="_blank" href='mailto:?subject=AP03%20SIO2%3a%20%20Infrastructure%20Haute%20Disponibilit%c3%a9&amp;body=Check%20out%20this%20site http%3a%2f%2flocalhost%3a1313%2fap%2fap-10%2f'>
                     <i class="fa fa-envelope"></i>
                   </a>
                 </li>
