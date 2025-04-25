@@ -12,4 +12,4 @@ Dans le cadre de ma veille technologique, j'ai choisi de me concentrer sur l'imp
 
 Cette veille m'a permis de comprendre les enjeux techniques, les défis liés à l'intégration de ces technologies dans le football, ainsi que leur impact sur le déroulement des matchs et l'expérience des spectateurs. J'ai également exploré les débats autour de la place de la technologie dans ce sport et les limites qu'elle peut rencontrer, notamment sur le plan humain et éthique.
 
-Vous pouvez consulter le dossier complet de cette veille en suivant le lien ci-dessous : [Veille technologique KURTZ Valentin](/docs/Veille.docx)
+Vous pouvez consulter le dossier complet de cette veille en suivant le lien ci-dessous : [Veille technologique KURTZ Valentin](/docs/Veille.pdf)

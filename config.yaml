@@ -137,7 +137,7 @@ params:
     intro: "Bonjour, mon prénom est"
     title: "Valentin."
     subtitle: "Bienvenue sur mon portfolio"
-    content: "Je suis actuellement en Brevet de Technicien Supérieur Services Informatiques aux Organisations."
+    content: "Je suis actuellement en Brevet de Technicien Supérieur Services Informatiques aux Organisations. "
     image: /images/logo.jpg
     bottomImage:
       enable: true
@@ -169,7 +169,7 @@ params:
         - "Mise en place d'un pare-feu Stormshield"
         - "Mise en place de fonctionnalités DNS, DHCP"
         - "Bases de données:MySQL"
-        - "Analyse:Schéma relationnel, schéma Entité-Association"
+        
         - "Bureautique:Word, Excel, PowerPoint"
         
 
@@ -217,6 +217,7 @@ params:
         date: "2023 - 2025"
         GPA: 
         content: |-
+          Option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)
           
       - title: "Baccalauréat Général"
         school:
