@@ -6,8 +6,8 @@
     <description>Recent content in Stages on Hugo Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2025 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/stages/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <item>
       <title>Stage SIO2</title>
       <link>http://localhost:1313/stages/stage-2%C3%A8me-ann%C3%A9e/</link>
@@ -22,5 +22,7 @@
       <guid>http://localhost:1313/stages/stage-1%C3%A8re-ann%C3%A9e/</guid>
       <description>J&amp;rsquo;ai réalisé mon stage de première année de BTS SIO au sein de l&amp;rsquo;espace Vall&amp;rsquo;Âges, un centre social et culturel situé à Joinville. J&amp;rsquo;étais avec le conseiller numérique. Mon stage s&amp;rsquo;est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j&amp;rsquo;ai réalisé plusieurs projets.&#xA;Vous pouvez retrouver mon attestation de stage au lien suivant : Attestation de stage SIO1 KURTZ Valentin&#xA;Projet n°1: Création d&amp;rsquo;un exercice pour débutant en informatique pour l&amp;rsquo;utilisation d&amp;rsquo;Excel Pour un groupe de débutant en informatique souhaitant apprendre Excel afin de l&amp;rsquo;utiliser pour faire leurs comptes, j&amp;rsquo;ai du réaliser un exercice simulant une fiche d&amp;rsquo;une personne fictive ayant plusieurs revenus et dépenses.</description>
     </item>
+=======
+>>>>>>> dc76a00ff672dcb476deb6be2fa347de89aa551f
   </channel>
 </rss>
