@@ -10,7 +10,7 @@ tags:
 image: /images/AP/zabbix.png
 description: ""
 toc:
-weight: 50
+weight: 16
 ---
 Pour l'examen j'ai décidé de porter mon premier projet sur la supervision réseau Zabbix. 
 
